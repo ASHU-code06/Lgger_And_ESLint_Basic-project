@@ -1,0 +1,157 @@
+{"date":"Wed Aug 02 2023 20:54:12 GMT+0530 (India Standard Time)","error":{},"exception":true,"level":"error","message":"uncaughtException: winston is not defined\nReferenceError: winston is not defined\n    at Object.<anonymous> (D:\\Logging-Express_Project\\app.js:10:18)\n    at Module._compile (node:internal/modules/cjs/loader:1255:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1309:10)\n    at Module.load (node:internal/modules/cjs/loader:1113:32)\n    at Module._load (node:internal/modules/cjs/loader:960:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)\n    at node:internal/main/run_main_module:23:47","os":{"loadavg":[0,0,0],"uptime":428681.406},"process":{"argv":["E:\\node.exe","D:\\Logging-Express_Project\\app.js"],"cwd":"D:\\Logging-Express_Project","execPath":"E:\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":342828,"external":2434286,"heapTotal":16842752,"heapUsed":10235056,"rss":40026112},"pid":18032,"uid":null,"version":"v20.3.0"},"stack":"ReferenceError: winston is not defined\n    at Object.<anonymous> (D:\\Logging-Express_Project\\app.js:10:18)\n    at Module._compile (node:internal/modules/cjs/loader:1255:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1309:10)\n    at Module.load (node:internal/modules/cjs/loader:1113:32)\n    at Module._load (node:internal/modules/cjs/loader:960:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)\n    at node:internal/main/run_main_module:23:47","trace":[{"column":18,"file":"D:\\Logging-Express_Project\\app.js","function":null,"line":10,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1255,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1309,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1113,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":960,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":83,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"node:internal/main/run_main_module","function":null,"line":23,"method":null,"native":false}]}
+{"date":"Wed Aug 02 2023 20:59:00 GMT+0530 (India Standard Time)","error":{},"exception":true,"level":"error","message":"uncaughtException: winston is not defined\nReferenceError: winston is not defined\n    at Object.<anonymous> (D:\\Logging-Express_Project\\app.js:9:18)\n    at Module._compile (node:internal/modules/cjs/loader:1255:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1309:10)\n    at Module.load (node:internal/modules/cjs/loader:1113:32)\n    at Module._load (node:internal/modules/cjs/loader:960:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)\n    at node:internal/main/run_main_module:23:47","os":{"loadavg":[0,0,0],"uptime":428969.812},"process":{"argv":["E:\\node.exe","D:\\Logging-Express_Project\\app.js"],"cwd":"D:\\Logging-Express_Project","execPath":"E:\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":208074,"external":2299532,"heapTotal":16650240,"heapUsed":10222096,"rss":39628800},"pid":22912,"uid":null,"version":"v20.3.0"},"stack":"ReferenceError: winston is not defined\n    at Object.<anonymous> (D:\\Logging-Express_Project\\app.js:9:18)\n    at Module._compile (node:internal/modules/cjs/loader:1255:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1309:10)\n    at Module.load (node:internal/modules/cjs/loader:1113:32)\n    at Module._load (node:internal/modules/cjs/loader:960:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)\n    at node:internal/main/run_main_module:23:47","trace":[{"column":18,"file":"D:\\Logging-Express_Project\\app.js","function":null,"line":9,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1255,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1309,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1113,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":960,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":83,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"node:internal/main/run_main_module","function":null,"line":23,"method":null,"native":false}]}
+{"date":"Wed Aug 02 2023 20:59:07 GMT+0530 (India Standard Time)","error":{},"exception":true,"level":"error","message":"uncaughtException: winston is not defined\nReferenceError: winston is not defined\n    at Object.<anonymous> (D:\\Logging-Express_Project\\app.js:9:18)\n    at Module._compile (node:internal/modules/cjs/loader:1255:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1309:10)\n    at Module.load (node:internal/modules/cjs/loader:1113:32)\n    at Module._load (node:internal/modules/cjs/loader:960:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)\n    at node:internal/main/run_main_module:23:47","os":{"loadavg":[0,0,0],"uptime":428976.234},"process":{"argv":["E:\\node.exe","D:\\Logging-Express_Project\\app.js"],"cwd":"D:\\Logging-Express_Project","execPath":"E:\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":199882,"external":2291340,"heapTotal":16650240,"heapUsed":10147136,"rss":39661568},"pid":16960,"uid":null,"version":"v20.3.0"},"stack":"ReferenceError: winston is not defined\n    at Object.<anonymous> (D:\\Logging-Express_Project\\app.js:9:18)\n    at Module._compile (node:internal/modules/cjs/loader:1255:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1309:10)\n    at Module.load (node:internal/modules/cjs/loader:1113:32)\n    at Module._load (node:internal/modules/cjs/loader:960:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)\n    at node:internal/main/run_main_module:23:47","trace":[{"column":18,"file":"D:\\Logging-Express_Project\\app.js","function":null,"line":9,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1255,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1309,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1113,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":960,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":83,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"node:internal/main/run_main_module","function":null,"line":23,"method":null,"native":false}]}
+{"date":"Wed Aug 02 2023 20:59:21 GMT+0530 (India Standard Time)","error":{},"exception":true,"level":"error","message":"uncaughtException: winston is not defined\nReferenceError: winston is not defined\n    at Object.<anonymous> (D:\\Logging-Express_Project\\app.js:9:18)\n    at Module._compile (node:internal/modules/cjs/loader:1255:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1309:10)\n    at Module.load (node:internal/modules/cjs/loader:1113:32)\n    at Module._load (node:internal/modules/cjs/loader:960:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)\n    at node:internal/main/run_main_module:23:47","os":{"loadavg":[0,0,0],"uptime":428990.484},"process":{"argv":["E:\\node.exe","D:\\Logging-Express_Project\\app.js"],"cwd":"D:\\Logging-Express_Project","execPath":"E:\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":208074,"external":2299532,"heapTotal":16650240,"heapUsed":10223168,"rss":39800832},"pid":14764,"uid":null,"version":"v20.3.0"},"stack":"ReferenceError: winston is not defined\n    at Object.<anonymous> (D:\\Logging-Express_Project\\app.js:9:18)\n    at Module._compile (node:internal/modules/cjs/loader:1255:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1309:10)\n    at Module.load (node:internal/modules/cjs/loader:1113:32)\n    at Module._load (node:internal/modules/cjs/loader:960:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)\n    at node:internal/main/run_main_module:23:47","trace":[{"column":18,"file":"D:\\Logging-Express_Project\\app.js","function":null,"line":9,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1255,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1309,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1113,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":960,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":83,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"node:internal/main/run_main_module","function":null,"line":23,"method":null,"native":false}]}
+2023-08-03T03:26:23.064Z  - ERROR  -uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1829:16)
+    at listenInCluster (node:net:1877:12)
+    at Server.listen (node:net:1965:7)
+    at Function.listen (D:\Logging-Express_Project\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\Logging-Express_Project\app.js:19:5)
+    at Module._compile (node:internal/modules/cjs/loader:1255:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1309:10)
+    at Module.load (node:internal/modules/cjs/loader:1113:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+2023-08-03T03:26:39.155Z  - ERROR  -uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1829:16)
+    at listenInCluster (node:net:1877:12)
+    at Server.listen (node:net:1965:7)
+    at Function.listen (D:\Logging-Express_Project\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\Logging-Express_Project\app.js:19:5)
+    at Module._compile (node:internal/modules/cjs/loader:1255:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1309:10)
+    at Module.load (node:internal/modules/cjs/loader:1113:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+2023-08-03T03:26:57.395Z  - ERROR  -uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1829:16)
+    at listenInCluster (node:net:1877:12)
+    at Server.listen (node:net:1965:7)
+    at Function.listen (D:\Logging-Express_Project\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\Logging-Express_Project\app.js:19:5)
+    at Module._compile (node:internal/modules/cjs/loader:1255:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1309:10)
+    at Module.load (node:internal/modules/cjs/loader:1113:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+2023-08-03T03:27:04.049Z  - ERROR  -uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1829:16)
+    at listenInCluster (node:net:1877:12)
+    at Server.listen (node:net:1965:7)
+    at Function.listen (D:\Logging-Express_Project\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\Logging-Express_Project\app.js:19:5)
+    at Module._compile (node:internal/modules/cjs/loader:1255:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1309:10)
+    at Module.load (node:internal/modules/cjs/loader:1113:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+2023-08-03T06:13:54.696Z  - ERROR  -uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1829:16)
+    at listenInCluster (node:net:1877:12)
+    at Server.listen (node:net:1965:7)
+    at Function.listen (D:\Logging-Express_Project\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\Logging-Express_Project\app.js:19:5)
+    at Module._compile (node:internal/modules/cjs/loader:1255:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1309:10)
+    at Module.load (node:internal/modules/cjs/loader:1113:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+2023-08-03T06:14:14.566Z  - ERROR  -uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1829:16)
+    at listenInCluster (node:net:1877:12)
+    at Server.listen (node:net:1965:7)
+    at Function.listen (D:\Logging-Express_Project\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\Logging-Express_Project\app.js:19:5)
+    at Module._compile (node:internal/modules/cjs/loader:1255:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1309:10)
+    at Module.load (node:internal/modules/cjs/loader:1113:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+2023-08-03T06:14:45.420Z  - ERROR  -uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1829:16)
+    at listenInCluster (node:net:1877:12)
+    at Server.listen (node:net:1965:7)
+    at Function.listen (D:\Logging-Express_Project\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\Logging-Express_Project\app.js:19:5)
+    at Module._compile (node:internal/modules/cjs/loader:1255:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1309:10)
+    at Module.load (node:internal/modules/cjs/loader:1113:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+2023-08-03T06:14:51.295Z  - ERROR  -uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1829:16)
+    at listenInCluster (node:net:1877:12)
+    at Server.listen (node:net:1965:7)
+    at Function.listen (D:\Logging-Express_Project\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\Logging-Express_Project\app.js:19:5)
+    at Module._compile (node:internal/modules/cjs/loader:1255:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1309:10)
+    at Module.load (node:internal/modules/cjs/loader:1113:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+2023-08-03T06:46:45.926Z  - ERROR  -uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1829:16)
+    at listenInCluster (node:net:1877:12)
+    at Server.listen (node:net:1965:7)
+    at Function.listen (D:\Logging-Express_Project\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (D:\Logging-Express_Project\app.js:19:5)
+    at Module._compile (node:internal/modules/cjs/loader:1255:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1309:10)
+    at Module.load (node:internal/modules/cjs/loader:1113:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+2023-08-03T07:59:16.205Z  - ERROR  -uncaughtException: connect is not defined
+ReferenceError: connect is not defined
+    at Object.<anonymous> (D:\Logging-Express_Project\app.js:10:1)
+    at Module._compile (node:internal/modules/cjs/loader:1255:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1309:10)
+    at Module.load (node:internal/modules/cjs/loader:1113:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+    at node:internal/main/run_main_module:23:47
+2023-08-03T07:59:16.204Z  - ERROR  -uncaughtException: connect is not defined
+ReferenceError: connect is not defined
+    at Object.<anonymous> (D:\Logging-Express_Project\app.js:10:1)
+    at Module._compile (node:internal/modules/cjs/loader:1255:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1309:10)
+    at Module.load (node:internal/modules/cjs/loader:1113:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+    at node:internal/main/run_main_module:23:47
+2023-08-03T08:00:30.192Z  - ERROR  -uncaughtException: connect is not defined
+ReferenceError: connect is not defined
+    at Object.<anonymous> (D:\Logging-Express_Project\app.js:10:1)
+    at Module._compile (node:internal/modules/cjs/loader:1255:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1309:10)
+    at Module.load (node:internal/modules/cjs/loader:1113:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+    at node:internal/main/run_main_module:23:47
+2023-08-03T08:00:30.224Z  - ERROR  -uncaughtException: connect is not defined
+ReferenceError: connect is not defined
+    at Object.<anonymous> (D:\Logging-Express_Project\app.js:10:1)
+    at Module._compile (node:internal/modules/cjs/loader:1255:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1309:10)
+    at Module.load (node:internal/modules/cjs/loader:1113:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+    at node:internal/main/run_main_module:23:47
+2023-08-03T08:00:43.538Z  - ERROR  -uncaughtException: connect is not defined
+ReferenceError: connect is not defined
+    at Object.<anonymous> (D:\Logging-Express_Project\app.js:10:1)
+    at Module._compile (node:internal/modules/cjs/loader:1255:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1309:10)
+    at Module.load (node:internal/modules/cjs/loader:1113:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+    at node:internal/main/run_main_module:23:47
